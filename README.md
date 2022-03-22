@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://uploaddeimagens.com.br/images/003/785/749/full/OCTOCAT-Mariana.png?1647965082" width="400px" />
 <h1 align="center">Hello World!!!</h1>
-<p>Meu nome é Mariana Szilagyi Santos, tenho 34 anos e sou mãe da Helena e do Fernando. Sou contadora por formação e atuo na área há 5 anos mas sempre tive paixão por lógica e tecnologia, ano passado, 2021, decidi seguir meu sonho e tenho buscado o objetivo de trabalhar com desenvolvimento em backend.
+<p>Meu nome é Mariana Szilagyi Santos, tenho 34 anos e sou mãe da Helena e do Fernando. Sou contadora por formação e atuo na área há 5 anos mas como sempre tive paixão por lógica e tecnologia, ano passado, 2021, decidi seguir meu sonho e tenho buscado o objetivo de trabalhar com desenvolvimento em backend.
 
 
 
@@ -25,5 +25,5 @@ Tenho bastante experiência em instituições financeiras, tanto como funcionár
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariszilagyi&show_icons=true&locale=en&layout=compact" alt="mariszilagyi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariszilagyi&show_icons=true&locale=en" alt="mariszilagyi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mariszilagyi&show_icons=true&locale=en" alt="mariszilagyi" /></p>
 
